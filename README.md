@@ -1,6 +1,8 @@
-# battle.net account switcher
+# Battle.net Account Switcher
 
 Переключатель аккаунтов Battle.net для Windows. Выберите профиль по имени и email, чтобы открыть официальный лаунчер с нужным аккаунтом. В каждый момент используется один аккаунт.
+
+<img width="844" height="474" alt="Снимок экрана 2026-11-10 172214" src="https://github.com/user-attachments/assets/a19a894f-0b88-4fc5-a9f2-82b166785c6f" />
 
 ## Быстрый старт
 
@@ -36,9 +38,15 @@
 
 Это независимый проект. Он не связан с Blizzard Entertainment и не одобрен ею. Название Battle.net указывает на совместимость с лаунчером. Автор проекта не претендует на права на товарные знаки Battle.net или Blizzard Entertainment. [Сведения Blizzard о товарных знаках](https://www.blizzard.com/en-us/legal/5515ca11-1c96-42a0-b853-e7876a0d19bf/copyright-notices)
 
+
 ---
 
+
+# Battle.net Account Switcher
+
 A Windows utility for switching Battle.net accounts. Choose a profile by name and email to open the official launcher with that account. The switcher uses one account at a time.
+
+<img width="844" height="474" alt="Снимок экрана 2026-11-10 172409" src="https://github.com/user-attachments/assets/8d02990e-9672-42aa-8448-9af4e9587107" />
 
 ## Quick start
 
